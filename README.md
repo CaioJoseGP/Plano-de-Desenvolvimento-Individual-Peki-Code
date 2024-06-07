@@ -63,7 +63,7 @@ Olá, seja bem-vindo ao meu repositório do meu Plano de Desenvolvimento Individ
 
 <br>
 
-## Resposnaveis pelo PDI na Peki Code
+## Responsáveis pelo PDI na Peki Code
 
 * [Arthur Miranda](https://github.com/devarthurmiranda)
 * [Carlos Eduardo Rocha Miranda](https://github.com/CarlosERM)
