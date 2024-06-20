@@ -35,7 +35,7 @@ Olá, seja bem-vindo ao meu repositório do meu Plano de Desenvolvimento Individ
 
 ### Conteúdos a ser estudado
 
-##### Importante manter o README do seu PDI sempre atualizado para que possamos acompanhar o seu desenvolvimento na Peki Code!
+#### Rocketseat Discover
 
 
 - [X] Primeiros passos
@@ -44,9 +44,12 @@ Olá, seja bem-vindo ao meu repositório do meu Plano de Desenvolvimento Individ
 - [X] Avançando HTML e CSS
 - [X] JavaScript
 - [X] Git e GitHub
-- [ ] Projeto final
+- [X] [Projeto final](https://caiojosegp.github.io/Projeto_Discover_Rocketseat/)
 
 <br>
+
+
+##### Importante manter o README do seu PDI sempre atualizado para que possamos acompanhar o seu desenvolvimento na Peki Code!
 
 ## Conteúdo sobre análise de dados
 
