@@ -35,7 +35,7 @@ Olá, seja bem-vindo ao meu repositório do meu Plano de Desenvolvimento Individ
 
 ### Conteúdos a ser estudado
 
-#### Rocketseat arrow_right_hook: Discover
+#### Rocketseat :arrow_right_hook: Discover
 
 - [X] Primeiros passos
 - [X] Aprendendo a Aprender
@@ -46,12 +46,12 @@ Olá, seja bem-vindo ao meu repositório do meu Plano de Desenvolvimento Individ
 - [X] [Projeto final](https://caiojosegp.github.io/Projeto_Discover_Rocketseat/)
 
 
-#### React arrow_right_hook: ...
+#### React :arrow_right_hook: ...
 
 - [ ] 
 
 
-#### Análise de Dados arrow_right_hook: ...
+#### Análise de Dados :arrow_right_hook: ...
 
 - [ ]
 
