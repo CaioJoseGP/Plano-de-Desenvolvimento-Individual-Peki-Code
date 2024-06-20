@@ -14,7 +14,7 @@ Olá, seja bem-vindo ao meu repositório do meu Plano de Desenvolvimento Individ
 ## Tecnologias 
 
 * [HTML + CSS + JavaScript]
-* [Desenvovlimento Web]
+* [Desenvolvimento Web]
 
 <br>
 
