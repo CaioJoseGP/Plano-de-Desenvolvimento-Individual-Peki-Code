@@ -35,7 +35,7 @@ Olá, seja bem-vindo ao meu repositório do meu Plano de Desenvolvimento Individ
 
 ### Conteúdos a ser estudado
 
-#### Rocketseat Discover
+#### Rocketseat :arrow_right: Discover
 
 - [X] Primeiros passos
 - [X] Aprendendo a Aprender
@@ -46,16 +46,21 @@ Olá, seja bem-vindo ao meu repositório do meu Plano de Desenvolvimento Individ
 - [X] [Projeto final](https://caiojosegp.github.io/Projeto_Discover_Rocketseat/)
 
 
-#### React ...
+#### React :arrow_right: ...
 
-- [X] Primeiros passos
+- [ ] 
+
+
+#### Análise de Dados :arrow_right: ...
+
+- [ ]
 
 
 ##### Importante manter o README do seu PDI sempre atualizado para que possamos acompanhar o seu desenvolvimento na Peki Code!
 
 <br>
 
-## Conteúdo sobre análise de dados
+## Conteúdo sobre Análise de Dados
 
 #### Para os alunos que demostraram interesse em análise de dados aqui se encontra excelentes conteúdos gratuitos sobre análise de dados.
 
