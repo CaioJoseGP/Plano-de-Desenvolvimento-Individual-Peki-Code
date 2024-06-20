@@ -50,7 +50,7 @@ Olá, seja bem-vindo ao meu repositório do meu Plano de Desenvolvimento Individ
 
 ## Conteúdo sobre análise de dados
 
-#### Para os alunos que demostraram interesse em análise de dados aqui se encontra exelentes conteúdos gratuitos sobre análise de dados.
+#### Para os alunos que demostraram interesse em análise de dados aqui se encontra excelentes conteúdos gratuitos sobre análise de dados.
 
 #### Lembrando que essa trilha é opcional e deverá ser estudada ao longo do tempo
 
