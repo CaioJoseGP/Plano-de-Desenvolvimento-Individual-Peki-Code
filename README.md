@@ -48,12 +48,12 @@ Olá, seja bem-vindo ao meu repositório do meu Plano de Desenvolvimento Individ
 
 #### React :arrow_right: ...
 
-- [ ] 
+- [ ] Starting soon...
 
 
 #### Análise de Dados :arrow_right: ...
 
-- [ ]
+- [ ] Starting soon...
 
 
 ##### Importante manter o README do seu PDI sempre atualizado para que possamos acompanhar o seu desenvolvimento na Peki Code!
