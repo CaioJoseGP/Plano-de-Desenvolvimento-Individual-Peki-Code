@@ -15,6 +15,7 @@ Olá, seja bem-vindo ao meu repositório do meu Plano de Desenvolvimento Individ
 
 * [HTML + CSS + JavaScript]
 * [Desenvolvimento Web]
+* [JS Framework React]
 
 <br>
 
