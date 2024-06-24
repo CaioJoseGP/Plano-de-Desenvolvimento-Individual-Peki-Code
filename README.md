@@ -29,6 +29,7 @@ Olá, seja bem-vindo ao meu repositório do meu Plano de Desenvolvimento Individ
 * [W3 Schools HTML Tutorial](https://www.w3schools.com/html/default.asp)
 * [W3 Schools CSS Tutorial](https://www.w3schools.com/css/default.asp)
 * [JavaScript Tutorial](https://www.w3schools.com/js/default.asp)
+* [React Documentation](https://react.dev/learn)
 
 <br>  
 
@@ -47,9 +48,10 @@ Olá, seja bem-vindo ao meu repositório do meu Plano de Desenvolvimento Individ
 - [X] [Projeto final](https://caiojosegp.github.io/Projeto_Discover_Rocketseat/)
 
 
-#### React :arrow_right: ...
+#### React
 
-- [ ] Starting soon...
+- [ ] [Curso de React Para Iniciantes](https://www.youtube.com/watch?v=hd2B7XQAFls&)
+- [ ] Standing by
 
 
 #### Análise de Dados :arrow_right: ...
