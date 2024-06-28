@@ -21,7 +21,7 @@ Olá, seja bem-vindo ao meu repositório do meu Plano de Desenvolvimento Individ
 
 ## :clipboard:  Sobre os Cursos 
 
-
+* [Curso de React Para Iniciantes](https://www.youtube.com/watch?v=hd2B7XQAFls&)
 * [Rocketseat Discover](https://www.rocketseat.com.br/discover)
 
 ### Mateiral de apoio
@@ -50,7 +50,7 @@ Olá, seja bem-vindo ao meu repositório do meu Plano de Desenvolvimento Individ
 
 #### React
 
-- [ ] [Curso de React Para Iniciantes](https://www.youtube.com/watch?v=hd2B7XQAFls&)
+- [X] Curso de React Para Iniciantes (ytb)
 - [ ] Standing by
 
 
