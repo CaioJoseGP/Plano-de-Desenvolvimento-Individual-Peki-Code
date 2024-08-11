@@ -16,6 +16,7 @@ Olá, seja bem-vindo ao meu repositório do meu Plano de Desenvolvimento Individ
 * [HTML + CSS + JavaScript]
 * [Desenvolvimento Web]
 * [JS Framework React]
+* [WordPress]
 
 <br>
 
@@ -57,6 +58,12 @@ Olá, seja bem-vindo ao meu repositório do meu Plano de Desenvolvimento Individ
 #### Análise de Dados :arrow_right: ...
 
 - [ ] Starting soon...
+
+
+#### WordPress :arrow_right: ...
+
+- [X] Starting soon...
+
 
 
 ##### Importante manter o README do seu PDI sempre atualizado para que possamos acompanhar o seu desenvolvimento na Peki Code!
