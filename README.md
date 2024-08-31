@@ -31,6 +31,7 @@ Olá, seja bem-vindo ao meu repositório do meu Plano de Desenvolvimento Individ
 * [W3 Schools CSS Tutorial](https://www.w3schools.com/css/default.asp)
 * [JavaScript Tutorial](https://www.w3schools.com/js/default.asp)
 * [React Documentation](https://react.dev/learn)
+* [WordPress Documentation](https://wordpress.org/documentation/)
 
 <br>  
 
@@ -60,9 +61,10 @@ Olá, seja bem-vindo ao meu repositório do meu Plano de Desenvolvimento Individ
 - [ ] Starting soon...
 
 
-#### WordPress :arrow_right: ...
+#### WordPress
 
-- [X] Starting soon...
+- [X] [Easy Local WordPress Setup in 5 Minutes with Docker!](https://www.youtube.com/watch?v=gEceSAJI_3s) (ytb)
+- [ ] [WordPress Para Iniciantes](https://www.youtube.com/watch?v=zHS2DtsWgZM) (ytb)
 
 
 
